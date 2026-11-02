@@ -2,10 +2,17 @@
   "name": "diotima",
   "version": "0.0.1",
   "description": "Open, auditable evidence synthesis: every claim tied to a verbatim passage that code has found in the source.",
-  "author": { "name": "Leonardo Pegollo" },
+  "author": {
+    "name": "Leonardo Pegollo"
+  },
   "license": "Apache-2.0",
-  "keywords": ["evidence", "literature", "citations", "systematic-review", "verification"],
+  "keywords": [
+    "evidence",
+    "literature",
+    "citations",
+    "systematic-review",
+    "verification"
+  ],
   "skills": "./skills/",
-  "commands": "./commands/",
   "mcpServers": "./.mcp.claude.json"
 }

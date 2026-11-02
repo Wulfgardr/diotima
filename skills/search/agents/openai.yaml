@@ -1,0 +1,5 @@
+interface:
+  display_name: "Diotima search"
+  short_description: "Answer from verified literature"
+policy:
+  allow_implicit_invocation: true

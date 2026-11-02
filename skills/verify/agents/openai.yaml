@@ -1,0 +1,5 @@
+interface:
+  display_name: "Diotima verify"
+  short_description: "Check claims against their sources"
+policy:
+  allow_implicit_invocation: true

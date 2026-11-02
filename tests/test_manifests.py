@@ -28,14 +28,13 @@ def test_manifest_paths_exist():
         m = _json(rel)
         assert (ROOT / m["skills"]).is_dir()
         assert (ROOT / m["mcpServers"]).is_file()
-    assert (ROOT / _json(".claude-plugin/plugin.json")["commands"]).is_dir()
     launcher = ROOT / "bin" / "diotima-mcp"
     assert launcher.is_file() and launcher.stat().st_mode & 0o111
 
 
 def test_skills_have_frontmatter():
     skills = sorted((ROOT / "skills").glob("*/SKILL.md"))
-    assert len(skills) >= 4
+    assert [s.parent.name for s in skills] == ["search", "verify"]
     for s in skills:
         text = s.read_text(encoding="utf-8")
         assert text.startswith("---\n")

@@ -1,6 +1,6 @@
 ---
 name: verify
-description: Verify the claims of an existing answer (from an AI tool, a paper or a draft) against their cited sources, claim by claim, with verbatim passages checked by code. Use when the user asks to check, audit or fact-check citations or evidence claims.
+description: Check an existing answer claim by claim against source passages, recording reading depth and what can be verified. Use when a user wants to audit an answer against its sources.
 ---
 
 # Verify an answer claim by claim

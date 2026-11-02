@@ -1,7 +1,7 @@
 {
   "name": "diotima",
   "version": "0.0.1",
-  "description": "Open, auditable evidence synthesis: every claim tied to a verbatim passage that code has found in the source.",
+  "description": "Check literature claims against traceable source passages using local deterministic tools.",
   "author": {
     "name": "Leonardo Pegollo"
   },
@@ -14,5 +14,7 @@
     "verification"
   ],
   "skills": "./skills/",
-  "mcpServers": "./.mcp.claude.json"
+  "mcpServers": "./.mcp.claude.json",
+  "homepage": "https://github.com/Wulfgardr/diotima",
+  "repository": "https://github.com/Wulfgardr/diotima"
 }

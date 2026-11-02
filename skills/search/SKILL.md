@@ -1,6 +1,6 @@
 ---
 name: search
-description: Answer a research question from the scientific literature with verified extracts and visible disagreement. Pre-alpha manual mode until search tools land. Use when the user asks what the evidence says on a question.
+description: Answer a research question using studies and traceable passages. Use when a user asks for a literature answer. Pre-alpha: manual mode until search tools land.
 ---
 
 # Answer a research question with verified evidence

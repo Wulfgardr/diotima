@@ -1,17 +1,20 @@
 {
   "name": "diotima",
-  "owner": { "name": "Leonardo Pegollo" },
+  "owner": {
+    "name": "Leonardo Pegollo"
+  },
   "metadata": {
-    "description": "Diotima: open, auditable evidence synthesis for Claude and Codex.",
+    "description": "Open-source literature verification for Claude Code and Codex, with traceable source passages.",
     "version": "0.0.1"
   },
   "plugins": [
     {
       "name": "diotima",
       "source": "./",
-      "description": "Open, auditable evidence synthesis: every claim tied to a verbatim passage that code has found in the source.",
+      "description": "Check literature claims against traceable source passages using local deterministic tools.",
       "version": "0.0.1",
-      "license": "Apache-2.0"
+      "license": "Apache-2.0",
+      "repository": "https://github.com/Wulfgardr/diotima"
     }
   ]
 }

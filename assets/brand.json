@@ -1,0 +1,16 @@
+{
+  "_source": "Copy written by GPT-6.1 Terra (scholarly-paper-revision rules), 2026-11-02",
+  "tagline": "Trace literature claims to passages you can check.",
+  "social_preview": {
+    "title": "Trace literature claims to passages you can check.",
+    "subtitle": "Open-source plugin for Claude Code and Codex"
+  },
+  "verdict_glyph_alt_text": {
+    "supports": "Source supports the claim",
+    "partial": "Source partially supports the claim",
+    "contradicts": "Source contradicts the claim",
+    "not_verifiable": "Claim could not be verified",
+    "verified_passage": "Passage found in source",
+    "abstract_only": "Based on abstract only"
+  }
+}

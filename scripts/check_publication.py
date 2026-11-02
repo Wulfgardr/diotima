@@ -31,7 +31,7 @@ ALLOWED_SUFFIXES = {
     "",
 }
 # images only at these exact paths (plugin icons)
-IMAGE_ALLOWED = {".claude-plugin/icon.png", "assets/icon.png"}
+IMAGE_ALLOWED = {".claude-plugin/icon.png", "assets/icon.png", "assets/social-preview.png"}
 BINARY_DENY = {".pdf", ".epub", ".docx", ".doc", ".ris", ".nbib", ".enw", ".har", ".zip"}
 PATH_DENY = re.compile(r"(scihub|sci-hub|libgen|uptodate|consensus_|corpus_indipendente|rea_)", re.I)
 CONTENT_DENY = [

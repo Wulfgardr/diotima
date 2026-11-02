@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300"
+  role="img" aria-label="Diotima. Trace literature claims to passages you can check.">
+  <title>Diotima. Trace literature claims to passages you can check.</title>
+  <rect width="1280" height="300" rx="18" fill="#0F1519"/>
+  <rect x="1" y="1" width="1278" height="298" rx="17" fill="none" stroke="#26323A" stroke-width="2"/>
+  <g transform="translate(64 54) scale(1.5)">
+  <rect x="4" y="4" width="120" height="120" rx="22" fill="#F6F5F0" stroke="#D4DED9" stroke-width="2"/>
+  <path d="M22 36 V94 H58 C61 97 67 97 70 94 H106 V36" fill="none" stroke="#146354" stroke-width="3.5"
+    stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M27 31 H54 C59 31 62 34 64 38 C66 34 69 31 74 31 H101 V88 H71 C67 88 65 90 64 92 C63 90 61 88 57
+    88 H27 Z" fill="#FFFFFF" stroke="#1C252C" stroke-width="2.8" stroke-linejoin="round"/>
+  <line x1="64" y1="38" x2="64" y2="91" stroke="#1C252C" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="80" cy="56" r="16" fill="none" stroke="#146354" stroke-width="2" stroke-dasharray="3 2.5"/>
+  <line x1="80" y1="37" x2="80" y2="43" stroke="#1C252C" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="80" cy="35" r="2.5" fill="none" stroke="#1C252C" stroke-width="2"/>
+  <path d="M38 46 L52 62 L38 75" fill="none" stroke="#1C252C" stroke-width="2.6" stroke-linecap="round"
+    stroke-linejoin="round"/>
+  <line x1="52" y1="62" x2="75" y2="62" stroke="#146354" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M45 45 C45 40 48 37 48 34 C48 37 51 40 51 45 C51 47.8 49.7 49.5 48 49.5 C46.3 49.5 45 47.8 45 45 Z"
+    fill="#146354"/>
+  <circle cx="38" cy="46" r="4.5" fill="#146354" stroke="#1C252C" stroke-width="2"/>
+  <circle cx="52" cy="62" r="5" fill="#146354" stroke="#1C252C" stroke-width="2"/>
+  <circle cx="38" cy="75" r="4.5" fill="#146354" stroke="#1C252C" stroke-width="2"/>
+  <circle cx="80" cy="62" r="12" fill="#F6F5F0" stroke="#1C252C" stroke-width="3"/>
+  <line x1="88.8" y1="70.8" x2="99" y2="81" stroke="#146354" stroke-width="5" stroke-linecap="round"/>
+  <line x1="88.8" y1="70.8" x2="99" y2="81" stroke="#1C252C" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="80" cy="62" r="4.2" fill="#B85D3B"/>
+</g>
+  <text x="300" y="132" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="78" fill="#F6F5F0" letter-spacing="14">DIOTIMA</text>
+  <text x="302" y="178" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-style="italic" font-size="26" fill="#AEB8BE">Trace literature claims to passages you can check.</text>
+  <line x1="302" y1="208" x2="1216" y2="208" stroke="#26323A" stroke-width="1.5"/>
+  <circle cx="310" cy="246" r="7" fill="#4FB39A"/><text x="326" y="251" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#AEB8BE" letter-spacing="0.4">claim</text><line x1="378" y1="246" x2="486" y2="246" stroke="#4FB39A" stroke-width="2" stroke-linecap="round"/><circle cx="500" cy="246" r="7" fill="#4FB39A"/><text x="516" y="251" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#AEB8BE" letter-spacing="0.4">verbatim passage</text><line x1="656" y1="246" x2="726" y2="246" stroke="#4FB39A" stroke-width="2" stroke-linecap="round"/><circle cx="740" cy="246" r="7" fill="#4FB39A"/><text x="756" y="251" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#AEB8BE" letter-spacing="0.4">source</text><circle cx="850" cy="246" r="7" fill="none" stroke="#C96A44" stroke-width="2"/><circle cx="850" cy="246" r="3" fill="#C96A44"/><text x="866" y="251" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#AEB8BE" letter-spacing="0.4">dissent kept</text>
+</svg>

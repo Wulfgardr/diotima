@@ -1,0 +1,8 @@
+#!/bin/sh
+# Launch the Diotima MCP server from the plugin directory using uv.
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+if ! command -v uv >/dev/null 2>&1; then
+  echo "diotima: 'uv' is required (https://docs.astral.sh/uv/). Install it and restart your agent." >&2
+  exit 127
+fi
+exec uv run --quiet --frozen --project "$ROOT" diotima-mcp "$@"

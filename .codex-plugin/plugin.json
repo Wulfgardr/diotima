@@ -1,0 +1,32 @@
+{
+  "name": "diotima",
+  "version": "0.0.1",
+  "description": "Open, auditable evidence synthesis: every claim tied to a verbatim passage that code has found in the source.",
+  "author": {
+    "name": "Leonardo Pegollo"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "evidence",
+    "literature",
+    "citations",
+    "systematic-review",
+    "verification"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.codex.json",
+  "interface": {
+    "displayName": "Diotima",
+    "shortDescription": "Auditable evidence synthesis",
+    "longDescription": "Answer research questions from the literature with every claim tied to a verbatim passage verified by code, the reading depth it rests on, and an exportable audit trail.",
+    "developerName": "Leonardo Pegollo",
+    "category": "Research",
+    "capabilities": [
+      "Read"
+    ],
+    "defaultPrompt": [
+      "Verify the claims in this answer against their sources."
+    ],
+    "logo": "./assets/icon.png"
+  }
+}

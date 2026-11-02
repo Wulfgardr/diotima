@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "diotima": {
+      "type": "stdio",
+      "command": "${CLAUDE_PLUGIN_ROOT}/bin/diotima-mcp",
+      "args": []
+    }
+  }
+}

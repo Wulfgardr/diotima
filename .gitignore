@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+.DS_Store
+# outputs of legacy engine runs
+risultati_motore_v0.3.json
+# local evaluation runs and downloaded full texts (never commit them)
+evals/runs/
+corpus/

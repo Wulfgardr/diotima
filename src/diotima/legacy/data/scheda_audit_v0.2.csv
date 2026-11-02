@@ -1,0 +1,3 @@
+tipo_riga;id;documento_id;voce_o_affermazione;tipo_unita;source_kind;verification_status;stato_accesso;identita_ok;hash_file;posizione_dichiarata;posizione_verificata;link_risolvibile;esito;tipo_errore;tempo_min;lettore;revisione_indipendente;adjudicazione;note
+DOCUMENTO;DOC-001;;;;;;full text;sì;sha256 del file (esempio);;;;;;;;;;RIGA DI ESEMPIO ILLUSTRATIVO - cancellare prima dell'uso
+UNITA;E-001;DOC-001;[Parafrasi dossier v0.1] una checklist di reporting descrive 16 voci;claim;dossier_paraphrase;unverified_primary;non acquisito (nota v0.1: F);;;null / non verificate;no;no;verifica non possibile;;;L1;;;RIGA DI ESEMPIO ILLUSTRATIVO - cancellare prima dell'uso

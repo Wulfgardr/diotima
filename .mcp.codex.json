@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "diotima": {
+      "type": "stdio",
+      "command": "./bin/diotima-mcp",
+      "args": []
+    }
+  }
+}

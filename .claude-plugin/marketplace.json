@@ -1,0 +1,17 @@
+{
+  "name": "diotima",
+  "owner": { "name": "Leonardo Pegollo" },
+  "metadata": {
+    "description": "Diotima: open, auditable evidence synthesis for Claude and Codex.",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "diotima",
+      "source": "./",
+      "description": "Open, auditable evidence synthesis: every claim tied to a verbatim passage that code has found in the source.",
+      "version": "0.0.1",
+      "license": "Apache-2.0"
+    }
+  ]
+}
